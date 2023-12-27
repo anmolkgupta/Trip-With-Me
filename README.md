@@ -1,5 +1,5 @@
 # Trip-With-Me
-##Plan your trip with Trip with me 
+## Plan your trip with Trip with me 
 
 # Getting Started with Create React App
 
